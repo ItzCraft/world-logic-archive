@@ -1,5 +1,6 @@
 name: wla
 displayName: World Logic Archive
+repo: https://github.com/ItzCraft/world-logic-archive
 description: '''
 A mod that adds a 1 map with a lot world processors what you can use in your mods/maps.
 
