@@ -6,9 +6,8 @@ A mod that adds a 1 map with a lot world processors what you can use in your mod
 Suggest me your wproc ideas what you want to see here. But remember, all wprocs used in this map, could be copyed by anyone.
 '''
 author: ItzCraft
-version: 1.0
+version: 0.5
 minGameVersion: 146
 subtitle: Welcome to wproc gaming
 dependencies: []
 hidden: false
-hideBrowser: true
