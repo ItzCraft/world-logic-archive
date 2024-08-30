@@ -11,3 +11,4 @@ minGameVersion: 146
 subtitle: Welcome to wproc gaming
 dependencies: []
 hidden: false
+hideBrowser: true
