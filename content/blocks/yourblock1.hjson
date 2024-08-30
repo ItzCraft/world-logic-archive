@@ -1,0 +1,14 @@
+type: Block
+name: Showcase block
+description: just a Block for showcase.
+health: 99
+size: 2
+breakable: true
+rebuildable: false
+destructible: true
+targetable: false
+allowDerelictRepair: false
+buildVisibility: sandboxOnly
+requirements: [
+  copper/10
+]
